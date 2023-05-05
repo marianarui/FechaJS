@@ -1,0 +1,21 @@
+body {
+    margin: auto;
+    min-height: 100%;
+    background-image: url(fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 10px;
+    -webkit-text-fill-color: rgb(178, 189, 23);
+}
+h1, h2 {
+    text-align: center;
+    padding: 0.6rem;
+
+}
+.cont-general{
+    height: 100vh;
+    margin: 0 auto;
+    width: 60vh;
+}
